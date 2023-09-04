@@ -1,0 +1,29 @@
+
+<svg id="main4-icon3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="84" height="84" viewBox="0 0 84 84">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        stroke: #f58220;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_1941" data-name="사각형 1941" class="cls-1" width="84" height="84"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_2594" data-name="그룹 2594" class="cls-2">
+    <ellipse id="타원_149" data-name="타원 149" class="cls-3" cx="14" cy="13.89" rx="14" ry="13.89" transform="translate(28 17)"/>
+    <path id="패스_14500" data-name="패스 14500" class="cls-3" d="M67,67V63.9c0-10.685-15.335-14.663-25-14.663S17,53.212,17,63.9V67"/>
+    <path id="패스_14501" data-name="패스 14501" class="cls-3" d="M36,49.94l5.718,7.827L48,49.94"/>
+  </g>
+</svg>

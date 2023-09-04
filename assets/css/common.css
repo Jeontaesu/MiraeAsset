@@ -1,0 +1,20 @@
+/* 2.common 공통 클래스 */
+.blind {
+    /* position:absolute;
+    top:-9999px;
+    left: -9999px; - 옛날방식*/ 
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip:rect(0 0 0 0);
+    margin:-1px;
+}
+
+.common-inner {
+    max-width:1920px;
+    padding: 0 140px;
+    margin: 0 auto;
+}
+
+.hidden {height:100%; min-height:100%; overflow:hidden !important; touch-action:none;}
